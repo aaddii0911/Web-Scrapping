@@ -2,8 +2,6 @@
 
 ![download](https://github.com/aaddii0911/Web-Scrapping/assets/154340466/8e7d0900-3b12-49e4-91c2-7a352b04cd56)
 
-URL =  https://www.instahyre.com/python-jobs
-
 **Objective**: In this project, I will utilize Python web scraping to extract **more than** **300 job listings** related to Python roles from the Instahyre website. My task is to create a dataset comprising specific details for each job listing.
 
 Table 1 : `jobs`
@@ -32,7 +30,7 @@ Table 1 : `jobs`
     - *Data Type*: String (URL)
     - *Description*: Link to the job listing for additional details or application.
 
-All the details can be found on the link -https://www.instahyre.com/python-jobs
+All the details can be found on the [link](https://www.instahyre.com/python-jobs)
 
 **General Instructions for Python Web Scraping Project - Job Analytics** 
 
