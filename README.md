@@ -103,3 +103,4 @@ Following the data cleaning phase, a comprehensive data visualization process wa
 - https://beautiful-soup-4.readthedocs.io/en/latest/
 - https://www.selenium.dev/selenium/docs/api/py/api.html
 
+![download](https://github.com/aaddii0911/Web-Scrapping/assets/154340466/8e7d0900-3b12-49e4-91c2-7a352b04cd56)
