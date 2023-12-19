@@ -30,7 +30,7 @@ Table 1 : `jobs`
     - *Data Type*: String (URL)
     - *Description*: Link to the job listing for additional details or application.
 
-All the details can be found on the [link](https://www.instahyre.com/python-jobs)
+All the details can be found in this [link](https://www.instahyre.com/python-jobs)
 
 **General Instructions for Python Web Scraping Project - Job Analytics** 
 
