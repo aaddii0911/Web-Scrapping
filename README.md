@@ -1,8 +1,10 @@
 # Job Analytics
 
+![download](https://github.com/aaddii0911/Web-Scrapping/assets/154340466/8e7d0900-3b12-49e4-91c2-7a352b04cd56)
+
 URL =  https://www.instahyre.com/python-jobs
 
-**Objective**: In this project, I will utilize Python web scraping to extract **more than** **300 job listings** related to Python roles from the Instahyre website. Their task is to create a dataset comprising specific details for each job listing.
+**Objective**: In this project, I will utilize Python web scraping to extract **more than** **300 job listings** related to Python roles from the Instahyre website. My task is to create a dataset comprising specific details for each job listing.
 
 Table 1 : `jobs`
 
@@ -32,7 +34,7 @@ Table 1 : `jobs`
 
 All the details can be found on the link -https://www.instahyre.com/python-jobs
 
-**General Instructions for Python Web Scraping Assignment - Job Analytics** 
+**General Instructions for Python Web Scraping Project - Job Analytics** 
 
 **Ethical Scraping Practices**:
 
@@ -40,25 +42,9 @@ All the details can be found on the link -https://www.instahyre.com/python-jobs
 - Avoid making too many requests in a short period to prevent overloading the website's servers.
 - Be mindful of web scraping etiquette to avoid putting unnecessary load on the website's servers.
 
-**Code Documentation**:
-
-- Include comments in your Python script to explain each step of the web scraping process.
-- Clearly mention the purpose of each function or block of code.
-
-**Readability and Style**:
-
-- Write clean and readable code
-- Use meaningful variable and function names to enhance code clarity.
-
-**Respectful Scraping**:
-
-- Use a reasonable delay between requests to avoid putting unnecessary load on the IMDb servers.
-- Be considerate of the website's resources and do not engage in aggressive scraping practices
-
 **Dataset Creation**:
 
 - Create a dataset using the **`pandas`** library or `file handling` method to organize the scraped data.
-- Include columns for 'name', 'location', 'founded', 'employees', 'about', 'skills', 'link’
 
 ### Data Cleaning
 
@@ -70,10 +56,8 @@ After successfully scraping the data, a critical step was performed to enhance t
     - Identified and addressed missing values within the dataset, employing appropriate techniques for imputation based on statistical measures.
 2. **Duplicate Values Removal:**
     - Detected and eliminated duplicate records to ensure the dataset is free from redundant information, preventing skewed analyses.
-
- 3.   **Data Type Standardization:**
-
-- Ensured appropriate data types for variables, such as converting numerical variables to the correct numeric data types and standardizing date formats.
+3.   **Data Type Standardization:**
+    - Ensured appropriate data types for variables, such as converting numerical variables to the correct numeric data types and standardizing date formats.
 
 ### Data Visualization
 
@@ -103,4 +87,3 @@ Following the data cleaning phase, a comprehensive data visualization process wa
 - https://beautiful-soup-4.readthedocs.io/en/latest/
 - https://www.selenium.dev/selenium/docs/api/py/api.html
 
-![download](https://github.com/aaddii0911/Web-Scrapping/assets/154340466/8e7d0900-3b12-49e4-91c2-7a352b04cd56)
